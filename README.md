@@ -1,4 +1,4 @@
-# BlogSystem-ex
+# BlogSystem-LAB
 
 ![image](https://user-images.githubusercontent.com/47796658/175773826-0200c2db-f702-42b6-b6e2-45e5bff3a983.png)
 
